@@ -1,7 +1,7 @@
 # Week10-FINAL-Levitia
 
 Proposal:
-**Bloom** - Self-care & Mood Tracker
+**Bloom** (Self-care & Mood Tracker)
 
 The focus of the project would primiarily be on the UI and UX of the app. The overall theme would be playful, approachable and hopefully intuitive to use. 
 
