@@ -10,3 +10,10 @@ Features:
 - Add notes/ diary to it if they opt to
 - Users can see their mood flow in a calendary-like view
 - (If i have more time) Users can see the statistics and analyze their mood  
+
+
+Notes
+
+Bosung:I would like to see another function that where users can share their diaries with other users.
+
+Loved the idea of neat functions all together.
