@@ -1,7 +1,8 @@
 # Week10-Lev
 
 
-Proposal: **Bloom** - Habit & Mood Tracker
+Proposal:
+**Bloom** - Habit & Mood Tracker
 
 The focus of the project would primiarily be on the UI and UX of the app. The overall theme would be playful, approachable and hopefully intuitive to use. 
 
